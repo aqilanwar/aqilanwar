@@ -10,7 +10,6 @@ Hey there! I'm Aqil Anwar, a passionate software developer with expertise in var
   - Python
   - C++
   - Java
-  - MySQL
 
 - Technologies:
   - Digital Ocean
@@ -18,6 +17,7 @@ Hey there! I'm Aqil Anwar, a passionate software developer with expertise in var
   - Docker
   - MongoDB
   - Tailwind CSS
+  - MySQL
 
 - Currently exploring:
   - Vue.js
