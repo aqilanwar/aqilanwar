@@ -28,4 +28,4 @@ Hey there! I'm Aqil Anwar, a passionate software developer with expertise in var
   
 
 ## Let's Connect!
-Let's connect and create something impactful! :rocket:
+Let's connect and create something impactful! Reach me out at aqilanwarx@gmail.com :rocket:
